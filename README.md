@@ -10,7 +10,7 @@ A simple project to generate a chess board layout using HTML, CSS, and JavaScrip
 
 ## Features
 
-The chess board is dynamically generated using JavaScript based on a configuration defined in the usage(#usage).
+The chess board is dynamically generated using JavaScript based on a configuration defined in the [usage] below.
 
 ## Usage
 
