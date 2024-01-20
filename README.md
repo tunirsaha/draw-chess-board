@@ -10,9 +10,11 @@ A simple project to generate a chess board layout using HTML, CSS, and JavaScrip
 
 ## Features
 
-- **Dynamic Board Generation**: The chess board is dynamically generated using JavaScript configuration passed in the footer of the index.html file.
+The chess board is dynamically generated using JavaScript based on a configuration defined in the usage(#usage).
 
 ## Usage
+
+The keys of the ocnfiguration that can be passed in the footer of the index.html file are as follows:
  
 - sizeInPx(Number): Define Size of board in pixels
 - colors(Array): Define the bi-colors for the tiles
