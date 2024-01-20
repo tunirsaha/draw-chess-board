@@ -6,6 +6,14 @@
 
 #chess-board .tile {
     outline: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 3em;
+}
+
+#chess-board .tile .piece{
+    text-shadow: 1px solid black;
 }
 
 #chess-board .tile.black {
